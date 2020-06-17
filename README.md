@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AngularTrial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Heros-angular-trial
 Angular.io tutorial - let's see how angular works. 
->>>>>>> 3beae1933e6c7ca50154dced85ae4d41762d0f47
+
